@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npx jest",
     "dev": "nodemon --legacy-watch src/app.ts",
+    "build": "npx tsc --project tsconfig.build.json",
     "heroku": "heroku container:push web --app jukka-keranen-backend && heroku container:release web --app jukka-keranen-backend"
   },
   "keywords": [],
