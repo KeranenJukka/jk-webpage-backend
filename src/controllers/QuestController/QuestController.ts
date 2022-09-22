@@ -11,7 +11,7 @@ class QuestController {
     }
 
     /**
-     * @param {number} id
+     * @param {string} uuid
      * @param {number} visitingTimes
      * @returns {Promise<boolean>}
      */
