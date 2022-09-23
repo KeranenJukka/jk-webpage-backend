@@ -1,6 +1,6 @@
 {
-  "name": "cv-backend",
-  "version": "1.0.0",
+  "name": "jk-webpage-backend",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
